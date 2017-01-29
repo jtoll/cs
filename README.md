@@ -12,3 +12,4 @@
 
 
 ### Miscellaneous
+[SSH Remote Terminal Size](docs/terminal-size.md)
