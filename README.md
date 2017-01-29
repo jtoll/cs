@@ -8,7 +8,7 @@
 [Ruby](docs/ruby.md)  
 
 ### R
-[Install TeX on Mac](docs/tex.md)
+[Install TeX on Mac](docs/install-tex.md)
 
 
 ### Miscellaneous
