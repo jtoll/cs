@@ -1,13 +1,13 @@
 # Install TeX on Mac
 
-Notes for a minimum installation of TeX on Mac OS for [R](https://www.r-project.org) package development.
+Notes for a minimum installation of TeX on Mac OS.  Used in [R](https://www.r-project.org) package development and elsewhere.
 
-### 1) Download [BasicTeX](http://www.tug.org/mactex/morepackages.html), a smaller version of the full [MacTex](http://www.tug.org/mactex/).
-While the usage of the basic version will require the installation of additional fonts, the benefit is a greater than 90% decrease in size.  The installation package for the full version of MacTeX is approximately 2GB, while the basic installation package is only 112MB.
+### 1) Download and install BasicTeX
+[BasicTeX](http://www.tug.org/mactex/morepackages.html) is a minimal version of [MacTex](http://www.tug.org/mactex/).  While the usage of this version will require the installation of additional fonts, the benefit is a greater than 90% decrease in size.  The installation package for the full version of MacTeX is approximately 2GB, while the basic installation package is only 112MB.
 
 ### 2) Update TeX packages
-After BasicTeX installation, update to the latest version of each package.
-<small>*Note: The use of `sudo` for updating and package installation may be required.*</small>
+After BasicTeX installation, update to the latest version of each package.  
+*Note: The use of `sudo` for updating and package installation may be required.*
 
 ```
 sudo tlmgr update --self
