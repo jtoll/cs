@@ -61,4 +61,4 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.45-b02, mixed mode)
 <https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_install_faq.html>
 <https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html>
 <https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jre.html>
-<http://www.minecraftforge.net/wiki/Install_JDK>
+<https://mcforge.readthedocs.io/en/latest/>
