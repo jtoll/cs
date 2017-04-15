@@ -1,6 +1,6 @@
 # Cheat Sheets
 
-*AD USUM PROPRIUM*
+*ad usum proprium*
 
 ### Package Management
 [Node.js](docs/node.md)  
@@ -12,4 +12,5 @@
 
 
 ### Miscellaneous
+[Java on MacOS](docs/java.md)  
 [SSH Remote Terminal Size](docs/terminal-size.md)
