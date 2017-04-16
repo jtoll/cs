@@ -12,5 +12,5 @@ From the `stty` man page:
 cols number     Same as columns.
 columns number  The terminal size is recorded as having number columns.
 rows number     The terminal size is recorded as having number rows.
-size		    The size of the terminal is printed as two numbers on a single line, first rows, then columns.
+size            The size of the terminal is printed as two numbers on a single line, first rows, then columns.
 ```

@@ -1,4 +1,4 @@
-# Install TeX on Mac
+# Install TeX on MacOS
 
 Notes for a minimum installation of TeX on Mac OS.  Used in [R](https://www.r-project.org) package development and elsewhere.
 
